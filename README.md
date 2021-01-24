@@ -12,4 +12,4 @@ An ecommerce store developed using the Django framework. The site is hosted on h
 
 ## Deployment 
 
-I Used Heroku. 
+- Deploy your git repository via the the heroku CLI. Here is a link : https://devcenter.heroku.com/articles/git
